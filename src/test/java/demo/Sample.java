@@ -7,6 +7,7 @@ public class Sample
 	{
 		System.out.println("Commit1");
 		System.out.println("Commit2");
+		System.out.println("Commit3");
 
 	}
 
